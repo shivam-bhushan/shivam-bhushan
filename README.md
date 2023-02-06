@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shivam Bhushan
-- 👀 I’m interested in Full Stack Development and iOS development
-- 🌱 I’m currently learning Swift, Bootstrap and JS 
+- 👀 I’m interested in Full Stack Development and Machine Learning
+- 🌱 I’m currently learning Pandas, Matplotlib and Tensorflow
 - 💞️ I’m looking to collaborate on web based projects
 - 📫 How to reach me - shivamfreelance13@gmail.com
 
