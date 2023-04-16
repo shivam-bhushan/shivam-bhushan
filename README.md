@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Shivam Bhushan.
 - 👀 I’m interested in Full Stack Development and Machine Learning.
-- 🌱 I’m currently learning Pandas, Matplotlib and Tensorflow.
-- 💞️ I’m looking to collaborate on web based projects.
+- 🌱 I’m currently learning Flutter and Tensorflow.
+- 💞️ I’m looking to collaborate on app based/ML projects.
 - 📫 How to reach me - shivamfreelance13@gmail.com
 
 <!---
