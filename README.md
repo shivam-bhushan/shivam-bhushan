@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Shivam Bhushan.
+- 👋 Hi, I’m Shivam Bhushan
 - 👀 I’m interested in Full Stack Development, Ui/Ux design and Machine Learning.
 - 🌱 I’m currently learning Flutter, Node JS, React and Tensorflow.
 - 💞️ I’m looking to collaborate on app based/ML projects.
