@@ -2,7 +2,7 @@
 - 👀 I’m interested in Full Stack Development, Ui/Ux design and Machine Learning.
 - 🌱 I’m currently working with React Native and Tensorflow.
 - 💞️ I’m looking to collaborate on app based/ML projects.
-- 📫 How to reach me - shivamfreelance13@gmail.com
+- 📫 How to reach me - shivam13202@gmail.com
 
 <!---
 shivam-bhushan/shivam-bhushan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
