@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Shivam Bhushan
-- 👀 I’m interested in Full Stack Development and Machine Learning.
-- 🌱 I’m currently working with React Native and Tensorflow.
-- 💞️ I’m looking to collaborate on app based/ML projects.
+- 👀 I’m interested in Software Development.
 - 🔗 My portfolio website - https://shivam-bhushan-portfolio-sb.netlify.app
 - 📫 How to reach me - shivam13202@gmail.com
 
