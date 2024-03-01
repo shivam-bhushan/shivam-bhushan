@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shivam Bhushan
 - 👀 I’m interested in Software Development.
-- 🔗 My portfolio website - https://shivam-bhushan-portfolio-sb.netlify.app
+- 🔗 My portfolio website - https://shivam-bhushan-portfoliosb.netlify.app
 - 📫 How to reach me - shivam13202@gmail.com
 
 <!---
