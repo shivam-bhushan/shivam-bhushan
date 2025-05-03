@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Shivam Bhushan
-- 👀 I’m interested in Software Development.
+- 👀 I’m a Software Engineer at Walmart
 - 🔗 My portfolio website - https://shivam-bhushan-portfoliosb.netlify.app
 - 👨‍💼 My LinkedIn profile - https://www.linkedin.com/in/shivam-bhushan/
 - 🧑‍💻 My LeetCode page - https://leetcode.com/u/shivambhushan/
